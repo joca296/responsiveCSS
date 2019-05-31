@@ -15,6 +15,7 @@ $max-col-size : 12;
 .row {
     clear: both;
     box-sizing: border-box;
+    display: inline-block;
     padding-left: -$padding;
     padding-right: -$padding;
     width: 100%;
